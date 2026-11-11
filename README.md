@@ -1,8 +1,8 @@
 # 👋 Hi, I'm M (@channel101)
 
-> “Any fool can write code that a computer can understand.  
-> Good programmers write code that humans can understand.”  
-> — Martin Fowler
+> My Personal Motto is:
+
+Run/Plan a day that starts with `Try` and ends with `Catch`.
 
 ---
 
